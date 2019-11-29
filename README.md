@@ -1,7 +1,7 @@
 # findmovie
 ## python pyqt5 电影资源搜索(GUI图形化界面暂时未完成)
 # -----------文件介绍---------------------
-### 1.reptile文件夹下
+### 1.reptile文件夹
    downMovie.py 网上找的一个参考资源
    movieMaoYanTop.py 猫眼前100电影爬虫
    maoyan.csv 爬虫后生成的文件
